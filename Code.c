@@ -8,6 +8,7 @@
 #include<math.h>
 #include<time.h>
 #define N 100//upper bound to number of people
+#define test 0//trying something out.
 
 typedef struct temp {
 	int ID;
