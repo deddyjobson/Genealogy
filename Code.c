@@ -8,7 +8,7 @@
 #include<math.h>
 #include<time.h>
 #define N 100//upper bound to number of people
-// Hello
+
 typedef struct temp {
 	int ID;
 	char name[30];
